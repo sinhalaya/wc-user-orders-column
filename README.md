@@ -1,9 +1,7 @@
 === WC User Orders Column ===
-Contributors: Roshan Hewawansa (Sinhalaya)
-Donate link: https://redmedia.lk
 Tags: WooCommerce, orders, user orders, admin
 Requires at least: 5.0
-Tested up to: 6.3
+Tested up to: 6.6
 Requires PHP: 7.2
 Stable tag: 1.0
 License: GPL-2.0+
@@ -14,8 +12,6 @@ Adds a "No of Orders" column to the WordPress All Users area, displaying the Woo
 == Description ==
 
 **WC User Orders Column** is a simple plugin that adds a new column, "No of Orders," in the WordPress All Users admin area. This column shows the total number of WooCommerce orders each user has placed.
-
-This is useful for site administrators who want quick access to user purchase activity directly in the Users panel. The column is also sortable, allowing you to view users based on their total WooCommerce orders.
 
 = Key Features =
 * Displays total WooCommerce orders for each user in the Users list
