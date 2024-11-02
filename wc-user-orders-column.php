@@ -5,16 +5,15 @@ Plugin URI: https://redmedia.lk
 Description: Adds a column to show the number of WooCommerce orders placed by each user in the WordPress Users area.
 Version: 1.0
 Requires at least: 5.0
-Tested up to: 6.3
+Tested up to: 6.6
 Requires PHP: 7.2
 Author: RED Media Corporation
 Author URI: https://redmedia.lk
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wc-user-orders-column
-Network: false
-GitHub Plugin URI: https://github.com/sinhalaya
 */
+
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
